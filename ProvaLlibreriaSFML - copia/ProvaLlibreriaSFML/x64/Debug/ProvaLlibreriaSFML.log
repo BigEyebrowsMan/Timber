@@ -1,0 +1,13 @@
+﻿  ProvaLlibreriaSFML.cpp
+F:\Cicle\Programació\UF1\ProvaLlibreriaSFML - copia\ProvaLlibreriaSFML\ProvaLlibreriaSFML.cpp(73,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+F:\Cicle\Programació\UF1\ProvaLlibreriaSFML - copia\ProvaLlibreriaSFML\ProvaLlibreriaSFML.cpp(73,29): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+F:\Cicle\Programació\UF1\ProvaLlibreriaSFML - copia\ProvaLlibreriaSFML\ProvaLlibreriaSFML.cpp(148,27): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+F:\Cicle\Programació\UF1\ProvaLlibreriaSFML - copia\ProvaLlibreriaSFML\ProvaLlibreriaSFML.cpp(415,35): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+F:\Cicle\Programació\UF1\ProvaLlibreriaSFML - copia\ProvaLlibreriaSFML\ProvaLlibreriaSFML.cpp(464,35): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+F:\Cicle\Programació\UF1\ProvaLlibreriaSFML - copia\ProvaLlibreriaSFML\ProvaLlibreriaSFML.cpp(582,32): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+F:\Cicle\Programació\UF1\ProvaLlibreriaSFML - copia\ProvaLlibreriaSFML\ProvaLlibreriaSFML.cpp(585,19): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+F:\Cicle\Programació\UF1\ProvaLlibreriaSFML - copia\ProvaLlibreriaSFML\ProvaLlibreriaSFML.cpp(613,34): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+F:\Cicle\Programació\UF1\ProvaLlibreriaSFML - copia\ProvaLlibreriaSFML\ProvaLlibreriaSFML.cpp(616,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+F:\Cicle\Programació\UF1\ProvaLlibreriaSFML - copia\ProvaLlibreriaSFML\ProvaLlibreriaSFML.cpp(645,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+F:\Cicle\Programació\UF1\ProvaLlibreriaSFML - copia\ProvaLlibreriaSFML\ProvaLlibreriaSFML.cpp(714,23): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  ProvaLlibreriaSFML.vcxproj -> F:\Cicle\Programació\UF1\ProvaLlibreriaSFML - copia\x64\Debug\ProvaLlibreriaSFML.exe
